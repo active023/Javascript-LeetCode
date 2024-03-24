@@ -1,4 +1,4 @@
-LeetCode JavaScript Solutions !! 
+# LeetCode JavaScript Solutions !! 
 
 
 Welcome to my LeetCode JavaScript solutions repository!
