@@ -17,7 +17,6 @@ var chunk = function (arr, size) {
             }
         }
     }
-
     if(chunk.length >0){
         chunkedArray.push(chunk);
     }
